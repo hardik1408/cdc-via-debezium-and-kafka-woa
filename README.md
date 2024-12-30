@@ -1,15 +1,9 @@
-# CDC-via-debezium-and-Kafka-woa
-# **[Project Title]**
-
+# **CDC-via-debezium-and-Kafka-woa**
 ## **Innovators**
-- [Innovator 1 Name](LinkedIn or GitHub URL)
-- [Innovator 2 Name](LinkedIn or GitHub URL)
-- [Innovator 3 Name](LinkedIn or GitHub URL)
+- Hardik Jindal 
+- Sagar Arora 
 
 ## **Mentor**
-- [Mentor Name](LinkedIn or GitHub URL)
-
-## **Contact**
-- **Email**: [example@example.com](mailto:example@example.com)
-- **Discord**: [Discord Link](#)
-- **GitHub Repository**: [GitHub Link](#)
+- Ayush Ghai 
+- **Email**: ayush@godspeed.systems
+- **Discord**: ayush.ghai(#)
